@@ -1,5 +1,0 @@
----
-title: "Proyecto"
-output: html_document
----
-
